@@ -2,7 +2,7 @@
 <a href="https://js30-clocks.netlify.app/"> https://js30-clocks.netlify.app </a>
 
 <div align="center">
-  <img src="https://github.com/pstnv/js30-clocks/blob/main/cw_7.png?raw=true">
+  <img src="https://github.com/pstnv/js30-clocks/blob/main/src/cw_7.png?raw=true">
 </div>
 <br>
 
